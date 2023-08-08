@@ -1,0 +1,41 @@
+h1{
+    color:rgb(2, 1, 6);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url("tinyarchive/media/photographs/m.jpeg");
+    margin-top:0in;
+    margin-left: 0in;
+    margin-bottom: 0in;
+    margin-right: 0in;
+    /* height: 2in */
+    
+}
+ul {
+    font-family: Arial, sans-serif;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #354a05;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding:  14px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+  img{
+    margin-left: 3.5in;
+    margin-top: 1in;
+    }
